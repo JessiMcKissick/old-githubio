@@ -176,3 +176,68 @@ h4{
 #active {
     background-color: blue !important;
 }
+
+/* Media queries  */
+
+@media screen and (max-height: 590px){
+    body{
+        font-size: 1vw;
+    }
+
+    #logoHold{
+        width: 20%;
+        height: 5vw;
+        float: left;
+        text-align: center;
+    }
+
+    #logoHold h4 {
+        font-family: 'Sunflower', sans-serif;
+        font-size: 2.5vw;
+        margin-top: 20px;
+
+    }
+
+    #navDiv{
+        background-color: rgb(48, 46, 46);
+        float: left;
+        width: 80%;
+        height: 3vw;
+        text-align: left;
+        font-size: 25px;
+        padding: 0;
+        margin: 0;
+    }
+
+    #navDiv button{
+        background-color: rgb(44, 123, 146);
+        border: none;
+        margin: 0;
+        padding: 0;
+        margin-right: 5px;
+        height: 3vw;
+        min-width: 8vw;
+        color: white;
+        font-size: 1vw;
+    }
+
+    #navDiv button:hover{
+        background-color: blue;
+    }
+
+    #colorBar{
+        background-color: rgb(11,11,146);
+        width: 80%;
+        height: 5vw;
+        float: left;
+        margin: 0;
+        padding: 0;
+    }
+
+    #miniBar{
+        background-color: rgb(4, 4, 97);
+        width: 20%;
+        height: 3vw;
+        float: left;
+    }
+}
