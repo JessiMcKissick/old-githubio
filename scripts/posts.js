@@ -1,23 +1,27 @@
 let posts = [
     {
-        title: "Trying a new thing.",
-        content: "As anyone who knows me knows; I'm not exactly a social butterfly. I have severe social anxiety" + 
-        " and while I work on it every day, some things remain hard. One of my biggest issues however is "+
-        "social media and writing about myself. So today I've decided to try something new. So from today on,"+
-        " I am going to try to tackle this issue head on by writing on here at least once a week. Some days "+
-        "it'll be programming, some days it'll be mental health and some days it will be nothing in particular."+
-        " I don't particularly intend this to reach anyone, I just want to do this as an exercise in personal growth." +
-        " So starting today, the David McKissick blog on utter nonsense and programming begins! I look forward"+
-        " to the future and hope I keep it up. No promises.",
-        date: "11/9/2018 - 10:34pm"
+        title: "why is this site so simplistic?",
+        content: "This site was originally created with the goal of being reasonably lightweight" +
+        " and accessible. As such, there are no animations, minimal images, and a simple layout. " +
+        "While this approach is functional and works reasonably well, I am considering creating a " +
+        "more modern and stylized webapp while offering this version as a light alternative.",
+        date: "1/1/2019"
     },
     {
-        title: "The site launches.",
-        content: "Welp, here we go. The site is ready in the most basic functionality. The site was originally "+
-        "written in my admittedly misguided javascript library, SolomonJS... However after it taking literally "+
-        "days to do anything of value, I've realized Solomon has been a waste of time. SO, I'm discontinuing the "+
-        "SolomonJS project, I've remade this site in just vanilla html and javascript and I'm going to begin "+
-        "focusing more on contributing to open source projects for my practice instead of writing my library.",
-        date: "11/9/2018 - 10:38pm"
+        title: "Chist beta 0.8 coming soon",
+        content: "In an effort to release some of my various projects, I've decided to release" +
+        " Chist in UWP format (for free of course) to the public. The first release will be a " +
+        "beta release, however I will keep it up to date with features and tweaks whenever possible.",
+        date: "1/18/2019"
+    },
+    {
+        title: "Microsoft developer certification.",
+        content: "I've signed up and paid for my microsoft developer certificate. After some "+
+        "basic tweaking, I will be releasing the first release of chist. If you're unfamiliar "+
+        "with chist (extremely likely,) check out the official product page found under products.",
+        date: "1/19/2019"
+    },
+    {
+        title: "Lorem ipsum", content: "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?", date: "1/19/2019"
     }
 ]
