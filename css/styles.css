@@ -90,6 +90,19 @@ h4{
     padding: 1vw;
 }
 
+#productDiv{
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+}
+
+.prodImg{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    border-radius: 10px;
+}
+
 #title{
     padding-left: 10px;
     padding-right: 10px;
